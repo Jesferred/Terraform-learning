@@ -1,2 +1,2 @@
 # Terraform-learning
-some usefull practical terraform-lessons 
+some useful practical terraform-lessons 
